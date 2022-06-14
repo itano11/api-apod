@@ -1,0 +1,12 @@
+Tipo Web:
+Consumo API Imagen astronómica del día (Proyecto APOD NASA)
+
+Recurso API:
+https://api.nasa.gov/planetary/apod
+
+Autor:
+Aldo Tamburini
+@itano11
+
+Tecnología:
+JavaScript - HTML5 - Bootstrap 5 (CSS)

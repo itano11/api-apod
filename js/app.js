@@ -1,5 +1,5 @@
 
-fetch("https://api.nasa.gov/planetary/apod?api_key=FRcaIi60mo1ho0btxsCy2idKcp6DIilfzkLlkHbV")
+fetch("https://api.nasa.gov/planetary/apod?api_key=API-KEY")
 
 .then(response => {return response.json() })
 .then(data => {
